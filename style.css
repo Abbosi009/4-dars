@@ -81,7 +81,7 @@ body {
 .hero-right .character {
   width: 300px;
   height: 400px;
-  background: url('https://via.placeholder.com/300x400') no-repeat center/cover;
+  background: url('./c4c37681a7f5efa0fa9884b482310f385f87c4f4.png') no-repeat center/cover;
   border-radius: 20px;
 }
 
@@ -155,6 +155,7 @@ body {
 .highlight-item {
   font-size: 1.2rem;
   font-weight: bold;
+  background-image: url(./photo_2025-06-05_17-31-45.jpg);
 }
 
 .news {
